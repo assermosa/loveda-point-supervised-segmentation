@@ -1,0 +1,10 @@
+# Install PyTorch with CUDA first, from https://pytorch.org/get-started/locally/
+# (tested with torch 2.6.0 + CUDA 12.4)
+segmentation-models-pytorch==0.5.0
+opencv-python-headless
+numpy
+pandas
+matplotlib
+tqdm
+ipywidgets
+jupyterlab

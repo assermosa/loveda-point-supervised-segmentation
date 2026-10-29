@@ -1,0 +1,13 @@
+# environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# dataset and training outputs (large)
+data/
+outputs/
+*.pt
+*.zip
+
+# written by the notebook at runtime
+loveda_ds.py
